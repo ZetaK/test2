@@ -9,6 +9,7 @@ b = ["Who made me?",
 "I danced.",
 ]
 
+
 computer = b [randint(0,7)]
 
 name = input("What is your name? \n")
